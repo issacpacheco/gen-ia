@@ -1,24 +1,27 @@
-💡 Mini Repositorio: Guía Regenerativa con IA (Gemini)
-🚀 Descripción del Proyecto
-Este repositorio contiene el código de Python que demuestra cómo utilizar los modelos de Inteligencia Artificial Generativa (Gemini 2.5 Flash) de Google para obtener insights estructurados y específicos en temas de Guía Regenerativa.
+# 💡 Mini Repositorio: Guía Regenerativa con IA (Gemini)
+
+## 🚀 Descripción del Proyecto
+
+Este repositorio contiene el código base en **Python** que demuestra cómo utilizar los modelos de **Inteligencia Artificial Generativa (Gemini 2.5 Flash)** de Google para obtener *insights* estructurados y específicos en temas de **Guía Regenerativa**.
 
 El objetivo es permitirte implementar rápidamente un agente de IA que pueda asistir en el análisis y la generación de contenido especializado, como los principios de diseño para una ciudad circular.
 
-📁 Archivos Incluidos
-regenerative_agent.py: Script principal que contiene el código para conectar con la API de Gemini y ejecutar el prompt del urbanista regenerativo.
+---
 
-requirements.txt: Archivo con las dependencias necesarias.
+## 🛠️ Requisitos e Instalación
 
-🛠️ Requisitos e Instalación
-1. Requisitos de Python
-Asegúrate de tener Python 3.9+ instalado.
+### 1. Requisitos de Python
 
-2. Instalación de la Librería
-Instala el SDK oficial de Google para IA Generativa:
+Asegúrate de tener **Python 3.9 o superior** instalado en tu sistema.
 
-Bash
+### 2. Instalación de la Librería
 
+Instala el SDK oficial de Google para IA Generativa ejecutando el siguiente comando en tu terminal:
+
+```bash
 pip install google-genai
+```
+
 O, si utilizas un archivo de requisitos:
 
 Bash
